@@ -13,7 +13,7 @@ var leftButton, rightButton;
 
 function preload(){
     leftPicture = loadImage("images/leftbutton.png")
-    rightPicture = loadImage("images/rightButton.png")
+    rightPicture = loadImage("images/rightbutton.png")
     playerPicture = loadImage("images/astronaut.png")
     obstacles1Picture = loadImage("images/meteor.png")
     obstacles2Picture = loadImage("images/satellite.png")
